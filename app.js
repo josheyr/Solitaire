@@ -23,7 +23,7 @@ var deck = createDeck();
 var sideDeck = [];
 
 var hand = [];
-var handSize = 1;
+var handSize = 3;
 
 shuffle(deck);
 
